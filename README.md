@@ -1,3 +1,3 @@
 # Deep-Learning
 
-well...You'll see progress over time :-)
+All my big and small projects in Deep Learning, Computer Vision and Natural Language Processing :)
